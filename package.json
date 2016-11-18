@@ -1,6 +1,6 @@
 {
   "name": "rev-logger",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "rev-logger client.",
   "main": "index.js",
   "scripts": {
