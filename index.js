@@ -1,1 +1,1 @@
-module.exports = require('./lib/HinagataNodebin');
+module.exports = require('./lib/RevLogger');

@@ -1,15 +1,15 @@
 {
-  "name": "hinagata-nodebin",
+  "name": "rev-logger",
   "version": "0.0.0",
-  "description": "hinagata-nodebin client.",
+  "description": "rev-logger client.",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
   },
-  "bin": "bin/hinagata-nodebin",
+  "bin": "bin/rev-logger",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/fnobi/hinagata-nodebin.git"
+    "url": "git+ssh://git@github.com/fnobi/rev-logger.git"
   },
   "keywords": [
     "cli"
@@ -30,7 +30,7 @@
     "mocha": "1.11.*"
   },
   "bugs": {
-    "url": "https://github.com/fnobi/hinagata-nodebin/issues"
+    "url": "https://github.com/fnobi/rev-logger/issues"
   },
-  "homepage": "https://github.com/fnobi/hinagata-nodebin#readme"
+  "homepage": "https://github.com/fnobi/rev-logger#readme"
 }
