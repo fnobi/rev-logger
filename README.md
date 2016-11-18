@@ -20,5 +20,5 @@ git clone git://github.com/fnobi/rev-logger.git
 ## usage
 
 ```
-hinataga-nodebin
+rev-logger
 ```
