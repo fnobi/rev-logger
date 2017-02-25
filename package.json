@@ -17,7 +17,7 @@
   "author": "Fujisawa Shin",
   "license": "ISC",
   "engines": {
-    "node": ">=4.0.0"
+    "node": ">=6.0.0"
   },
   "dependencies": {
     "chokidar": "^1.6.1",
