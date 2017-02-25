@@ -1,6 +1,8 @@
 rev-logger
 ==============
 
+[![Build Status](https://travis-ci.org/fnobi/rev-logger.svg?branch=master)](https://travis-ci.org/fnobi/rev-logger)
+
 Getting files revision numbers on git.
 
 ## install
